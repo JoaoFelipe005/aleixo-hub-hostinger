@@ -1,0 +1,1 @@
+<?php page_intro('404 / Fora do caminho','Essa página<br><em>não está por aqui.</em>','A conversa continua em outro lugar do Hub.'); ?><div class="wrap section"><a class="button" href="<?= e(link_url('/')) ?>">Voltar ao início <?= arrow() ?></a><a class="text-link" href="<?= e(link_url('/trabalhos')) ?>">Conhecer os trabalhos <?= arrow() ?></a></div>

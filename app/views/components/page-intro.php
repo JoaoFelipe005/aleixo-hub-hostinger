@@ -1,0 +1,1 @@
+<section class="page-intro <?= e($class) ?>"><div class="wrap"><p class="eyebrow"><?= e($eyebrow) ?></p><h1><?= $title ?></h1><?php if($description): ?><p class="intro-description"><?= e($description) ?></p><?php endif; ?></div></section>

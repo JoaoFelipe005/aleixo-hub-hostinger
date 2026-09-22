@@ -1,0 +1,216 @@
+{
+  "cases": {
+    "imperio": {
+      "client": "Império Móveis e Eletro",
+      "category": "Varejo · Campanha · Mídia",
+      "title": "Campanhas de varejo em múltiplos formatos.",
+      "intro": "Um trabalho que precisa preservar força comercial sem perder unidade de marca quando sai do digital e ocupa mídia, loja e rua.",
+      "context": "A comunicação de varejo exige velocidade, clareza e desdobramento. A mesma campanha precisa funcionar em formatos, praças e momentos diferentes.",
+      "challenge": "Organizar mensagem, criação e mídia para manter leitura rápida e impacto mesmo quando a campanha muda de formato.",
+      "strategy": "Construir uma direção visual e verbal que suporte oferta, urgência, presença local e adaptação multicanal.",
+      "idea": "Uma campanha precisa continuar reconhecível mesmo quando muda de tamanho, tela ou contexto.",
+      "execution": "Criação e desdobramentos para campanhas promocionais e comunicação de varejo, com atuação em meios ON e OFF conforme a operação.",
+      "channels": [
+        "Campanha",
+        "Varejo",
+        "Digital",
+        "OOH / mídia"
+      ],
+      "hero": "/assets/img/cases/imperio/loja.webp",
+      "gallery": [
+        "/assets/img/cases/imperio/ativacao.webp",
+        "/assets/img/cases/imperio/loja.webp"
+      ],
+      "note": "Sem números de resultado exibidos nesta versão.",
+      "slug": "imperio",
+      "status": "published",
+      "tags": [
+        "comunicacao",
+        "campanhas",
+        "conteudo",
+        "midia"
+      ]
+    },
+    "honda": {
+      "client": "Honda Autoline",
+      "category": "Automotivo · Conteúdo · Digital",
+      "title": "Produto, marca e oportunidade na mesma conversa.",
+      "intro": "Comunicação automotiva precisa equilibrar desejo, produto, condição comercial e confiança.",
+      "context": "O segmento combina lançamentos, ofertas, calendário de marca, conteúdo e presença digital recorrente.",
+      "challenge": "Criar materiais com leitura rápida sem reduzir a comunicação a preço ou ficha técnica.",
+      "strategy": "Trabalhar produto e marca dentro de uma linha visual consistente, ajustando a mensagem ao objetivo de cada conteúdo.",
+      "idea": "Fazer o produto ocupar o centro sem perder o contexto da marca.",
+      "execution": "Conteúdo, campanhas digitais e peças de comunicação para a operação Honda Autoline.",
+      "channels": [
+        "Automotivo",
+        "Conteúdo",
+        "Digital",
+        "Campanha"
+      ],
+      "hero": "/assets/img/cases/honda/city.webp",
+      "gallery": [
+        "/assets/img/cases/honda/city.webp",
+        "/assets/img/cases/honda/oferta.webp"
+      ],
+      "note": "Sem números de performance exibidos nesta versão.",
+      "slug": "honda",
+      "status": "published",
+      "tags": [
+        "comunicacao",
+        "campanhas",
+        "conteudo",
+        "digital"
+      ]
+    },
+    "arcomix": {
+      "client": "Arco-Mix",
+      "category": "Varejo · Conteúdo",
+      "title": "Comunicação de varejo que precisa acontecer toda semana.",
+      "intro": "No varejo alimentar, frequência, calendário e consistência visual precisam coexistir com agilidade.",
+      "context": "A rotina de comunicação envolve campanhas, ofertas, conteúdo, ativações e diferentes peças para pontos de contato da marca.",
+      "challenge": "Manter reconhecimento e organização visual mesmo com volume alto de mensagens.",
+      "strategy": "Estruturar linguagem e hierarquia para facilitar leitura, repetição de formatos e adaptação entre campanhas.",
+      "idea": "Frequência não precisa virar repetição sem critério.",
+      "execution": "Criação e conteúdo para campanhas e presença digital do Arco-Mix.",
+      "channels": [
+        "Varejo",
+        "Conteúdo",
+        "Digital",
+        "Campanha"
+      ],
+      "hero": "/assets/img/cases/arcomix/conteudo.webp",
+      "gallery": [
+        "/assets/img/cases/arcomix/conteudo.webp"
+      ],
+      "note": "O site apresenta material real do acervo consultado.",
+      "slug": "arcomix",
+      "status": "published",
+      "tags": [
+        "comunicacao",
+        "campanhas",
+        "conteudo",
+        "digital"
+      ]
+    },
+    "colegio": {
+      "client": "Colégio 2001",
+      "category": "Educação · Conteúdo · Campanha",
+      "title": "Educação pede comunicação com clareza e confiança.",
+      "intro": "Uma escola fala com alunos, famílias e comunidade ao mesmo tempo. A comunicação precisa equilibrar informação, vínculo e posicionamento.",
+      "context": "A presença da marca envolve campanhas institucionais, calendário educacional, conteúdo e comunicação de eventos e projetos.",
+      "challenge": "Organizar temas diferentes sem perder identidade e coerência institucional.",
+      "strategy": "Criar uma linha de comunicação capaz de alternar conteúdo acadêmico, institucional e promocional com unidade.",
+      "idea": "A marca precisa ser reconhecida antes mesmo de a pessoa terminar de ler a peça.",
+      "execution": "Conteúdo, campanhas e materiais de comunicação para o Colégio 2001.",
+      "channels": [
+        "Educação",
+        "Conteúdo",
+        "Campanha",
+        "Digital"
+      ],
+      "hero": "/assets/img/cases/colegio/campanha.webp",
+      "gallery": [
+        "/assets/img/cases/colegio/campanha.webp"
+      ],
+      "note": "O site apresenta material real do acervo consultado.",
+      "slug": "colegio",
+      "status": "published",
+      "tags": [
+        "comunicacao",
+        "campanhas",
+        "conteudo",
+        "midia"
+      ]
+    }
+  },
+  "articles": {
+    "midia-integrada": {
+      "category": "Mídia · Estratégia",
+      "title": "Mídia integrada não é estar em todo lugar.",
+      "intro": "Estar em vários canais só faz sentido quando cada um tem um papel claro dentro da mesma estratégia.",
+      "sections": [
+        [
+          "O erro da presença por presença",
+          "Uma campanha pode estar na TV, no outdoor, no Instagram e no Google e ainda assim parecer quatro campanhas diferentes. Integração não é repetição. É coerência de objetivo, mensagem e sequência."
+        ],
+        [
+          "O canal precisa ter uma função",
+          "TV pode ampliar alcance. Outdoor pode reforçar presença local. Busca pode capturar intenção. Social pode construir frequência e conversa. A escolha começa no papel que cada meio precisa cumprir."
+        ],
+        [
+          "A campanha precisa continuar reconhecível",
+          "A linguagem se adapta ao formato, mas a direção não pode desaparecer. Quando criação e mídia são pensadas juntas, a pessoa reconhece a mesma ideia em contextos diferentes."
+        ]
+      ],
+      "quote": "O canal muda. A direção estratégica precisa permanecer.",
+      "slug": "midia-integrada",
+      "status": "draft"
+    },
+    "depois-do-clique": {
+      "category": "Performance · Turn",
+      "title": "O que acontece depois do clique?",
+      "intro": "Mídia paga não termina quando alguém entra no site ou chama no WhatsApp. Ali começa outra parte da jornada.",
+      "sections": [
+        [
+          "Clique não é fim de funil",
+          "A campanha pode gerar atenção e ainda perder a oportunidade em uma página confusa, em um formulário longo ou em um atendimento lento."
+        ],
+        [
+          "Tracking ajuda a enxergar o caminho",
+          "Eventos, UTMs, integrações e CRM ajudam a conectar origem e resposta. Quanto melhor a leitura, menor a dependência de achismo."
+        ],
+        [
+          "A operação também faz parte da performance",
+          "Atendimento, oferta, processo comercial e retorno dos dados influenciam a capacidade de otimização da mídia."
+        ]
+      ],
+      "quote": "Performance é mídia, jornada, atendimento e aprendizado trabalhando juntos.",
+      "slug": "depois-do-clique",
+      "status": "draft"
+    },
+    "briefing": {
+      "category": "Processo · Criação",
+      "title": "Briefing bom não é longo. É decisivo.",
+      "intro": "Um briefing eficiente reduz espaço para interpretação errada sem tentar prever cada detalhe da criação.",
+      "sections": [
+        [
+          "Comece pelo problema",
+          "Antes de pedir uma peça, vale entender por que ela precisa existir. Objetivo, público, contexto e restrições têm mais valor que uma lista de referências sem direção."
+        ],
+        [
+          "Diferencie obrigatório de preferência",
+          "Logo, condição, prazo e informação legal são requisitos. Gosto pessoal é outra categoria. Misturar tudo costuma gerar retrabalho."
+        ],
+        [
+          "Dê espaço para a criação resolver",
+          "Um briefing bom cria limites úteis. Não entrega a solução antes do time de criação ter a chance de pensar."
+        ]
+      ],
+      "quote": "Briefing não é roteiro da peça. É mapa do problema.",
+      "slug": "briefing",
+      "status": "draft"
+    },
+    "marca-performance": {
+      "category": "Marca · Performance",
+      "title": "Marca e performance não precisam disputar orçamento.",
+      "intro": "Uma constrói memória. A outra acelera resposta. O melhor cenário é quando as duas aprendem uma com a outra.",
+      "sections": [
+        [
+          "Demanda também depende de lembrança",
+          "Nem toda conversão nasce no último clique. Marca, presença e consistência influenciam como as pessoas reconhecem e consideram uma empresa."
+        ],
+        [
+          "Performance devolve sinais",
+          "Mídia paga mostra respostas rápidas: criativos, públicos, buscas, páginas e ofertas geram sinais úteis para a comunicação como um todo."
+        ],
+        [
+          "O ciclo fica mais inteligente",
+          "Quando estratégia, criação e performance compartilham aprendizado, o trabalho deixa de ser uma disputa entre “branding” e “vendas”."
+        ]
+      ],
+      "quote": "Marca melhora a qualidade da demanda. Performance melhora a velocidade do aprendizado.",
+      "slug": "marca-performance",
+      "status": "draft"
+    }
+  }
+}

@@ -1,0 +1,67 @@
+{
+  "brand/comunicacao": {
+    "width": 1587,
+    "height": 581,
+    "sizes": []
+  },
+  "brand/comunicacao-white": {
+    "width": 1587,
+    "height": 581,
+    "sizes": []
+  },
+  "brand/digital": {
+    "width": 1063,
+    "height": 285,
+    "sizes": []
+  },
+  "cases/imperio/ativacao": {
+    "width": 1600,
+    "height": 900,
+    "sizes": [
+      480,
+      800,
+      1200
+    ]
+  },
+  "cases/imperio/loja": {
+    "width": 1200,
+    "height": 1600,
+    "sizes": [
+      480,
+      800
+    ]
+  },
+  "cases/honda/city": {
+    "width": 1080,
+    "height": 1350,
+    "sizes": [
+      480,
+      800
+    ]
+  },
+  "cases/honda/oferta": {
+    "width": 1080,
+    "height": 1350,
+    "sizes": [
+      480,
+      800
+    ]
+  },
+  "cases/arcomix/conteudo": {
+    "width": 1080,
+    "height": 1080,
+    "sizes": [
+      480,
+      800
+    ]
+  },
+  "cases/colegio/campanha": {
+    "width": 1800,
+    "height": 600,
+    "sizes": [
+      480,
+      800,
+      1200
+    ]
+  }
+}
